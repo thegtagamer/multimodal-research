@@ -65,8 +65,8 @@ image_transforms = transforms.Compose([
 ])
 
 # Load Dataset
-train_directory = "/Users/abhi/multi-modal/v2/split_dataset/train"
-test_directory = "/Users/abhi/multi-modal/v2/split_dataset/test"
+train_directory = "/scratch/adey6/multimodal-research/split_dataset/train"
+test_directory = "/scratch/adey6/multimodal-research/split_dataset/test"
 
 train_dataset = DisasterImageDataset(train_directory, transform=image_transforms)
 test_dataset = DisasterImageDataset(test_directory, transform=image_transforms)

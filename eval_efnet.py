@@ -7,7 +7,8 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support, con
 import seaborn as sns
 import matplotlib.pyplot as plt
 from tqdm import tqdm
-from PIL import Image
+from PIL import Image, ImageFile
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 import os
 
 # Select device
@@ -65,7 +66,7 @@ image_transforms = transforms.Compose([
 ])
 
 # Load Test Dataset
-test_directory = "/Users/abhi/multi-modal/split_dataset/test"
+test_directory = "/scratch/adey6/multimodal-research/split_dataset/test"
 test_dataset = DisasterImageDataset(test_directory, transform=image_transforms)
 test_dataloader = DataLoader(test_dataset, batch_size=16, shuffle=False)
 
