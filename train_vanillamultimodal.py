@@ -95,7 +95,9 @@ class MultimodalFusionModel(nn.Module):
 
         # Load EfficientNet (Image Encoder)
         self.efficient_net = efficientnet_b7(pretrained=True)
-        self.image_fc = nn.Linear(self.efficient_net.classifier[1].in_features, 1024)
+        self.efficient_net.classifier = nn.Identity()  # Remove the classifier layer
+        self.adaptive_pool = nn.AdaptiveAvgPool2d((1, 1))  # Ensure fixed output size
+        self.image_fc = nn.Linear(2560, 1024)  # EfficientNet-B7 outputs 2560 features
 
         # **Fusion & Classification Layers**
         self.fusion_fc = nn.Linear(2048, 1024)
@@ -105,17 +107,22 @@ class MultimodalFusionModel(nn.Module):
         self.dropout = nn.Dropout(0.3)
 
     def forward(self, input_ids, attention_mask, image):
+        # **Text Features Extraction**
         text_features = self.bert(input_ids=input_ids, attention_mask=attention_mask).pooler_output
         text_features = self.relu(self.text_fc(text_features))
 
-        image_features = self.efficient_net.features(image)
-        image_features = torch.flatten(image_features, start_dim=1)
-        image_features = self.relu(self.image_fc(image_features))
+        # **Image Features Extraction**
+        image_features = self.efficient_net.features(image)  # Extract features
+        image_features = self.adaptive_pool(image_features)  # Apply Adaptive Pooling
+        image_features = torch.flatten(image_features, start_dim=1)  # Flatten
+        image_features = self.relu(self.image_fc(image_features))  # Pass through FC layer
 
+        # **Multimodal Fusion**
         multimodal_representation = torch.cat((image_features, text_features), dim=1)
         multimodal_representation = self.relu(self.fusion_fc(multimodal_representation))
         multimodal_representation = self.dropout(multimodal_representation)
 
+        # **Final Classification**
         output = self.output_fc(multimodal_representation)
         return output
 
