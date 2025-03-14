@@ -140,6 +140,7 @@ if __name__ == "__main__":
     # Load Custom Model
     model = CustomBERTLargeClassifier(num_labels=num_classes)
     model.load_state_dict(torch.load("bert_text_classifier.pth", map_location="cpu"))  # Ensure CPU loading
+
     model.to(device)
 
     # Evaluate Model
