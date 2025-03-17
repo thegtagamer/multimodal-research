@@ -40,12 +40,7 @@ class DisasterImageDatasetEval:
 def build_classification_prompt():
     # Instead of using conv_templates.get_prompt(), we create a prompt manually.
     # This format is acceptable for LLaVA-NeXT models (e.g., for the llama3 variant):
-    prompt = ("You are a disaster classification assistant. Your task is to classify images into one of the categories: "
-        "[flood, non_damage, damaged_infrastructure, human_damage, fires, damaged_nature].\n\n"
-        "Respond **only** with a JSON object formatted like this:\n"
-        "{\n"
-        '  "classification": "category_name"\n'
-        "}\n\n")
+    prompt = "[INST] <image>\nWhat is shown in this image? [/INST]"
     return prompt
 
 def main():
