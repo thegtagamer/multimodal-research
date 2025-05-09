@@ -1,0 +1,13 @@
+(multimodal) [adey6@gpu021 multimodal-research]$ python eval_bert.py
+Select device for evaluation:
+1. CPU
+2. CUDA (GPU, if available)
+3. MPS (Apple Silicon, if available)
+Enter choice (1/2/3): 2
+Using device: cuda
+Evaluating: 100%|█████████████████| 438/438 [00:27<00:00, 15.93it/s]
+Validation Loss: 0.3478
+Accuracy: 0.9058
+Precision: 0.9072
+Recall: 0.9058
+F1-score: 0.9053

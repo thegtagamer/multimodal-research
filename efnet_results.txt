@@ -1,0 +1,18 @@
+(multimodal) [adey6@gpu021 multimodal-research]$ python eval_efnet.py
+Total images loaded: 1752
+/home/adey6/.conda/envs/multimodal/lib/python3.13/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/adey6/.conda/envs/multimodal/lib/python3.13/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=EfficientNet_B7_Weights.IMAGENET1K_V1`. You can also use `weights=EfficientNet_B7_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Select device for evaluation:
+1. CPU
+2. CUDA (GPU, if available)
+3. MPS (Apple Silicon, if available)
+Enter choice (1/2/3): 2
+Using device: cuda
+Evaluating: 100%|█████████████████| 110/110 [03:32<00:00,  1.93s/it]
+Validation Loss: 0.6453
+Accuracy: 0.8116
+Precision: 0.8240
+Recall: 0.8116
+F1-score: 0.8150

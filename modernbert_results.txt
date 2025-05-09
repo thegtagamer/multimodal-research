@@ -1,0 +1,10 @@
+(multimodal) [adey6@gpu021 multimodal-research]$ python eval_modernbert.py
+Using device: cuda
+Total test samples loaded: 1752
+You are attempting to use Flash Attention 2.0 with a model not initialized on GPU. Make sure to move the model to GPU after initializing it on CPU with `model.to('cuda')`.
+Some weights of ModernBertForSequenceClassification were not initialized from the model checkpoint at answerdotai/ModernBERT-large and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Evaluating: 100%|█████████████████| 219/219 [00:18<00:00, 11.80it/s]
+
+Validation Loss: 0.2730
+Accuracy: 0.9081 | Precision: 0.9067 | Recall: 0.9081 | F1-score: 0.9070
