@@ -1,0 +1,6 @@
+True: damaged_infrastructure | Predicted: damaged_infrastructure
+True: flood | Predicted: flood
+True: fires | Predicted: damaged_infrastructure
+True: damaged_nature | Predicted: damaged_nature
+True: non_damage | Predicted: damaged_nature
+True: non_damage | Predicted: human_damage
