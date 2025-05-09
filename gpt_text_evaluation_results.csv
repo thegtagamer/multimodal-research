@@ -1,0 +1,71 @@
+Text Path,True Label,Predicted Label,Snippet
+./split_dataset/test/flood/texts/naturaldisaster_2017-10-16_16-48-35.txt,flood,damaged_infrastructure,"Much of Puerto Rico is still without power, water, phones, and internet several weeks after a major hurricane slammed into the island. DONATE at TIDAL.com/PuertoRico to give direct help to those in ne"
+./split_dataset/test/flood/texts/floodwater_2017-05-30_21-27-36.txt,flood,flood,@Regrann from @the_auburn_wanderer -  #path #underwater #shadows #reflection #riverouse #floodwater #peaked #autumn #winter #flood #riverbank #walk #york #yorkshire #vsco #vscolove #vscocam #picofthed
+./split_dataset/test/flood/texts/accrafloods_2016-06-09_15-40-55.txt,flood,flood,#Accrafloods
+./split_dataset/test/flood/texts/floodwater_2017-09-12_16-52-33.txt,flood,flood,Flood water in Marikina River rose at 15m due to non-stop rain caused by Typhoon Maring.  Video recorded  2pm today.  Reminding all Marikeños to stay vigilant and ready if there's a need to go higher 
+./split_dataset/test/flood/texts/floodwater_2017-08-28_01-02-40.txt,flood,flood,"Devastating... Prayers for Texas >>>>>>>>>>>>>>>>>>> #Repost @abcnews (@get_repost)
+・・・
+Aerial footage taken by the Coast Guard during search and rescue operations shows the severe flooding across Tex"
+./split_dataset/test/non_damage/texts/building_2017-10-30_17-13-21.txt,non_damage,non_damage,Retrò. .  #architecture #architecturelovers #architecturephotography #archidaily #architexture #minimalarchitecture #design  #50s #autumn #building #architettura #instagood #instagram #instadaily #ins
+./split_dataset/test/non_damage/texts/ad_2017-11-25_05-21-37.txt,non_damage,non_damage,"‼️STILL AVAILABLE ‼️ 😱👀🙌🏾 50% OFF!!!!
+Head over to 👉🏾 @thecrulook to purchase. LINK IN BIO!!!👗👠👜🛍
+.
+.
+.
+.
+.
+.
+.
+.
+.
+#TheCRULook #fashion #ootd #style #fashiongram #vintage #fashionblogger #fashionstyl"
+./split_dataset/test/non_damage/texts/building_2017-10-30_17-00-00.txt,non_damage,non_damage,"I love love love this building, inside out. A gem. 💛
+#architecture #style #helsinki #architectureporn #adore #love #building #university #universityofhelsinki #campus metsätalo #visithelsinki #myhelsi"
+./split_dataset/test/non_damage/texts/ad_2017-11-25_03-24-00.txt,non_damage,non_damage,@solarbat #solarbatsunglasses #sunglasses #fishingsunglasses #ad #prostaffer #fishing #savemoney #sale #buyonline #avoidthelines #value #gifts #holidaysale #freeshippinginusa #usemycode #followmeonfac
+./split_dataset/test/non_damage/texts/food_2017-11-23_23-11-21.txt,non_damage,non_damage,📱👧🏼
+./split_dataset/test/damaged_infrastructure/texts/destruction_2017-10-29_08-44-30.txt,damaged_infrastructure,damaged_infrastructure,"#aleppo #syria #warphotography #streetphotography #war #peace #destruction #buldings #hospital #school #ambulance #girl #nikond7200 #hmb
+End of the war!"
+./split_dataset/test/damaged_infrastructure/texts/earthquake_2017-11-13_21-12-31.txt,damaged_infrastructure,damaged_infrastructure,"(Nov/13/2017)
+Trabajadores de rescate caminan a través de los escombros de los edificios destruidos en la provincia de #Kermanshah, #Irán, después de que un terremoto de 7,3 grados de magnitud sacudie"
+./split_dataset/test/damaged_infrastructure/texts/wreckedcar_2017-03-15_19-50-22.txt,damaged_infrastructure,damaged_infrastructure,#nissan #nissanaltima #wrecked #wreckedit #wreckedcar #wreckedauto #crash #carcrash #crashed #crashes #accident #accidental #oops #ohfudge #crashedit #impact #crushed #smashed #totaled #totaledit #tot
+./split_dataset/test/damaged_infrastructure/texts/buildingcollapse_2015-10-30_04-32-40.txt,damaged_infrastructure,damaged_infrastructure,Biking down the alley....I don't think there's anything too new about this one. Me thinks maybe 2nd floor collapsed but I haven't looked at my previous pic. Looks like it had the back pulled out maybe
+./split_dataset/test/damaged_infrastructure/texts/wreckedcar_2017-03-09_19-57-19.txt,damaged_infrastructure,damaged_infrastructure,"L'evoluzione ci ha portato ad avere veicoli sempre più #sicuri che, anche in caso di gravi/gravissimi #incidenti, garantiscono la #sicurezza degli occupanti dell'abitacolo.
+#Renault #Captur #aosta #ca"
+./split_dataset/test/human_damage/texts/isiscrimes_2015-08-17_04-19-10.txt,human_damage,human_damage,A wounded person helping another injured person .........another crime committed by Syrian regime ........#syriangenocide #genocide #pain #assadcrimes #isiscrimes #disgrace #poorsyrians #poorsyrians
+./split_dataset/test/human_damage/texts/isiscrimes_2015-08-16_00-40-50.txt,human_damage,human_damage,I wonder when humanity and international community will do something about Syrians???? Anything at all???? #assadcrimes #isiscrimes #syrians #syrie #syria #childrenofsyria #children #pain #syrianrefug
+./split_dataset/test/human_damage/texts/isiscrimes_2015-08-21_05-20-04.txt,human_damage,human_damage,"The sight of every injured Syrian child angers me. The scars on this child face are not due to war, they are much deeper due to the lack of humanity. People of the world where is your heart, people of"
+./split_dataset/test/human_damage/texts/isiscrimes_2015-08-13_17-24-43.txt,human_damage,human_damage,Syria today.........#assadcrimes #isiscrimes #shameonthisworld #shameonhumanity #pain #childrenofsyria #children #suffering #sufferingofsyrians #syrians
+./split_dataset/test/human_damage/texts/yemencrisis_2016-03-04_23-31-11.txt,human_damage,human_damage,"Why's the selling weapons to when they kill civilians in Yemen
+#usa_kills_yemeni_people 
+#YemenCrisis #Yemenchildren #Saudi_war_crimes #Yemen #europe #saudiarabia #french  #yemenforgottenwar 
+#اليمن_م"
+./split_dataset/test/fires/texts/forrestfire_2017-07-18_19-09-58.txt,fires,fires,Scena od sinoć. Nas 50 nosi crivo a ova tri naprid vatrogasca gase buktinju. Skidan kapu ljudima #firefighters #forrestfire #dalmatia #žrnovnica #lastnight @matija.vukas fotograf
+./split_dataset/test/fires/texts/buildingfire_2017-06-14_11-59-55.txt,fires,fires,"Termo Hotel Albury was completely destroyed by fire January 2005.
+#fire #firefighter #firstation #firetruck #albury #photo #alburycity  #firebrigade #fireandrescuensw #vintage #oldbuilding #buildingfi"
+./split_dataset/test/fires/texts/buildingfire_2017-10-15_22-30-00.txt,fires,fires,"#BREAKING NEWS: #LAFD currently battling a #MajorEmergency #3rdAlarm plus in the #BoyleHeights area in #FireStation17 district. #Repost @socalfirebuff1
+・・・#californiafirefighter #LosAngelesFire #Firef"
+./split_dataset/test/fires/texts/buildingfire_2017-01-11_16-20-24.txt,fires,fires,Earlier this morning #LAFD battle a #2ndAlarm #MajorEmergency #CommercialFire in #Chinatown  just off of Main Street at 12:35 AM. Firefighters arrived to find an unoccupied one-story commercial buildi
+./split_dataset/test/fires/texts/buildingfire_2017-07-05_05-56-59.txt,fires,fires,"It's insane to think about how fast something can go up in flames. .
+.
+.
+.
+.
+.
+#buildingfire #feurwehr #rescue #911 #fire #fireman #firedept #firehall #femalefirefighter #firefighter"
+./split_dataset/test/damaged_nature/texts/hurricaneirma_2017-11-18_16-06-07.txt,damaged_nature,damaged_nature,#floridakeys #destroyed #omg #hurricaneirma
+./split_dataset/test/damaged_nature/texts/wildfires_2017-11-20_15-02-02.txt,damaged_nature,fires,"Incredible southern landscape. .
+.
+.
+.
+.
+.
+.
+.
+.
+#wildfires #portugalrural #southportugal #travelling #trainjourney #awesomecolours #slowmo"
+./split_dataset/test/damaged_nature/texts/treefalling_2017-10-28_11-13-49.txt,damaged_nature,non_damage,"👌
+#myhusqy #treework #treefalling #562xpg #husqvarnasverige"
+./split_dataset/test/damaged_nature/texts/drought_2017-11-05_04-12-57.txt,damaged_nature,damaged_nature,#dumbeariver #newcaledonia #newcalstyle #islandlife #islandstyle #holidayseason #beautifulearth #nature #naturephotography #drought #redlands
+./split_dataset/test/damaged_nature/texts/naturaldisaster_2017-10-23_07-38-04.txt,damaged_nature,damaged_nature,"I can with #absolute #certainty #confirm that this is a #tree.
+
+#japan #typhoon #lan #typhoonlan #strong #wind #winds #strongwinds #natural #disaster #disasters #naturaldisaster #naturaldisasters"

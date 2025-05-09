@@ -68,8 +68,8 @@ class DisasterTextDataset(Dataset):
 tokenizer = BertTokenizer.from_pretrained('bert-large-uncased')
 
 # Define Dataset Path
-train_directory = "/Users/abhi/multi-modal/v2/split_dataset/train"  # Path to train data
-test_directory = "/Users/abhi/multi-modal/v2/split_dataset/test"  # Path to test data
+train_directory = "split_dataset/train"  # Path to train data
+test_directory = "split_dataset/test"  # Path to test data
 
 # Create Dataset and DataLoader
 train_dataset = DisasterTextDataset(train_directory, tokenizer, sample_n=4)

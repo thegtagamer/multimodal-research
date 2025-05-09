@@ -1,0 +1,78 @@
+
+🎯 **Evaluation Metrics:**
+✅ Accuracy: 0.9000
+✅ Macro Precision: 0.9167
+✅ Macro Recall: 0.9000
+✅ Macro F1-score: 0.8944
+
+**Test Sample Predictions:**
+📄 Text: Much of Puerto Rico is still without power, water, phones, and internet several weeks after a major hurricane slammed into the island. DONATE at TIDAL.com/PuertoRico to give direct help to those in ne... | ✅ True: flood | 🔍 Predicted: damaged_infrastructure
+📄 Text: @Regrann from @the_auburn_wanderer -  #path #underwater #shadows #reflection #riverouse #floodwater #peaked #autumn #winter #flood #riverbank #walk #york #yorkshire #vsco #vscolove #vscocam #picofthed... | ✅ True: flood | 🔍 Predicted: flood
+📄 Text: #Accrafloods... | ✅ True: flood | 🔍 Predicted: flood
+📄 Text: Flood water in Marikina River rose at 15m due to non-stop rain caused by Typhoon Maring.  Video recorded  2pm today.  Reminding all Marikeños to stay vigilant and ready if there's a need to go higher ... | ✅ True: flood | 🔍 Predicted: flood
+📄 Text: Devastating... Prayers for Texas >>>>>>>>>>>>>>>>>>> #Repost @abcnews (@get_repost)
+・・・
+Aerial footage taken by the Coast Guard during search and rescue operations shows the severe flooding across Tex... | ✅ True: flood | 🔍 Predicted: flood
+📄 Text: Retrò. .  #architecture #architecturelovers #architecturephotography #archidaily #architexture #minimalarchitecture #design  #50s #autumn #building #architettura #instagood #instagram #instadaily #ins... | ✅ True: non_damage | 🔍 Predicted: non_damage
+📄 Text: ‼️STILL AVAILABLE ‼️ 😱👀🙌🏾 50% OFF!!!!
+Head over to 👉🏾 @thecrulook to purchase. LINK IN BIO!!!👗👠👜🛍
+.
+.
+.
+.
+.
+.
+.
+.
+.
+#TheCRULook #fashion #ootd #style #fashiongram #vintage #fashionblogger #fashionstyl... | ✅ True: non_damage | 🔍 Predicted: non_damage
+📄 Text: I love love love this building, inside out. A gem. 💛
+#architecture #style #helsinki #architectureporn #adore #love #building #university #universityofhelsinki #campus metsätalo #visithelsinki #myhelsi... | ✅ True: non_damage | 🔍 Predicted: non_damage
+📄 Text: @solarbat #solarbatsunglasses #sunglasses #fishingsunglasses #ad #prostaffer #fishing #savemoney #sale #buyonline #avoidthelines #value #gifts #holidaysale #freeshippinginusa #usemycode #followmeonfac... | ✅ True: non_damage | 🔍 Predicted: non_damage
+📄 Text: 📱👧🏼... | ✅ True: non_damage | 🔍 Predicted: non_damage
+📄 Text: #aleppo #syria #warphotography #streetphotography #war #peace #destruction #buldings #hospital #school #ambulance #girl #nikond7200 #hmb
+End of the war!... | ✅ True: damaged_infrastructure | 🔍 Predicted: damaged_infrastructure
+📄 Text: (Nov/13/2017)
+Trabajadores de rescate caminan a través de los escombros de los edificios destruidos en la provincia de #Kermanshah, #Irán, después de que un terremoto de 7,3 grados de magnitud sacudie... | ✅ True: damaged_infrastructure | 🔍 Predicted: damaged_infrastructure
+📄 Text: #nissan #nissanaltima #wrecked #wreckedit #wreckedcar #wreckedauto #crash #carcrash #crashed #crashes #accident #accidental #oops #ohfudge #crashedit #impact #crushed #smashed #totaled #totaledit #tot... | ✅ True: damaged_infrastructure | 🔍 Predicted: damaged_infrastructure
+📄 Text: Biking down the alley....I don't think there's anything too new about this one. Me thinks maybe 2nd floor collapsed but I haven't looked at my previous pic. Looks like it had the back pulled out maybe... | ✅ True: damaged_infrastructure | 🔍 Predicted: damaged_infrastructure
+📄 Text: L'evoluzione ci ha portato ad avere veicoli sempre più #sicuri che, anche in caso di gravi/gravissimi #incidenti, garantiscono la #sicurezza degli occupanti dell'abitacolo.
+#Renault #Captur #aosta #ca... | ✅ True: damaged_infrastructure | 🔍 Predicted: damaged_infrastructure
+📄 Text: A wounded person helping another injured person .........another crime committed by Syrian regime ........#syriangenocide #genocide #pain #assadcrimes #isiscrimes #disgrace #poorsyrians #poorsyrians... | ✅ True: human_damage | 🔍 Predicted: human_damage
+📄 Text: I wonder when humanity and international community will do something about Syrians???? Anything at all???? #assadcrimes #isiscrimes #syrians #syrie #syria #childrenofsyria #children #pain #syrianrefug... | ✅ True: human_damage | 🔍 Predicted: human_damage
+📄 Text: The sight of every injured Syrian child angers me. The scars on this child face are not due to war, they are much deeper due to the lack of humanity. People of the world where is your heart, people of... | ✅ True: human_damage | 🔍 Predicted: human_damage
+📄 Text: Syria today.........#assadcrimes #isiscrimes #shameonthisworld #shameonhumanity #pain #childrenofsyria #children #suffering #sufferingofsyrians #syrians... | ✅ True: human_damage | 🔍 Predicted: human_damage
+📄 Text: Why's the selling weapons to when they kill civilians in Yemen
+#usa_kills_yemeni_people 
+#YemenCrisis #Yemenchildren #Saudi_war_crimes #Yemen #europe #saudiarabia #french  #yemenforgottenwar 
+#اليمن_م... | ✅ True: human_damage | 🔍 Predicted: human_damage
+📄 Text: Scena od sinoć. Nas 50 nosi crivo a ova tri naprid vatrogasca gase buktinju. Skidan kapu ljudima #firefighters #forrestfire #dalmatia #žrnovnica #lastnight @matija.vukas fotograf... | ✅ True: fires | 🔍 Predicted: fires
+📄 Text: Termo Hotel Albury was completely destroyed by fire January 2005.
+#fire #firefighter #firstation #firetruck #albury #photo #alburycity  #firebrigade #fireandrescuensw #vintage #oldbuilding #buildingfi... | ✅ True: fires | 🔍 Predicted: fires
+📄 Text: #BREAKING NEWS: #LAFD currently battling a #MajorEmergency #3rdAlarm plus in the #BoyleHeights area in #FireStation17 district. #Repost @socalfirebuff1
+・・・#californiafirefighter #LosAngelesFire #Firef... | ✅ True: fires | 🔍 Predicted: fires
+📄 Text: Earlier this morning #LAFD battle a #2ndAlarm #MajorEmergency #CommercialFire in #Chinatown  just off of Main Street at 12:35 AM. Firefighters arrived to find an unoccupied one-story commercial buildi... | ✅ True: fires | 🔍 Predicted: fires
+📄 Text: It's insane to think about how fast something can go up in flames. .
+.
+.
+.
+.
+.
+#buildingfire #feurwehr #rescue #911 #fire #fireman #firedept #firehall #femalefirefighter #firefighter... | ✅ True: fires | 🔍 Predicted: fires
+📄 Text: #floridakeys #destroyed #omg #hurricaneirma... | ✅ True: damaged_nature | 🔍 Predicted: damaged_nature
+📄 Text: Incredible southern landscape. .
+.
+.
+.
+.
+.
+.
+.
+.
+#wildfires #portugalrural #southportugal #travelling #trainjourney #awesomecolours #slowmo... | ✅ True: damaged_nature | 🔍 Predicted: fires
+📄 Text: 👌
+#myhusqy #treework #treefalling #562xpg #husqvarnasverige... | ✅ True: damaged_nature | 🔍 Predicted: non_damage
+📄 Text: #dumbeariver #newcaledonia #newcalstyle #islandlife #islandstyle #holidayseason #beautifulearth #nature #naturephotography #drought #redlands... | ✅ True: damaged_nature | 🔍 Predicted: damaged_nature
+📄 Text: I can with #absolute #certainty #confirm that this is a #tree.
+
+#japan #typhoon #lan #typhoonlan #strong #wind #winds #strongwinds #natural #disaster #disasters #naturaldisaster #naturaldisasters... | ✅ True: damaged_nature | 🔍 Predicted: damaged_nature

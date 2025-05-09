@@ -1,0 +1,18 @@
+
+🎯 **Evaluation Metrics:**
+✅ Accuracy: 0.6667
+✅ Macro Precision: 0.5556
+✅ Macro Recall: 0.6667
+✅ Macro F1-score: 0.5833
+
+**Test Sample Predictions:**
+📄 Text: "Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance."
+.
+-Kurt Vonnegut Jr., Hocus Pocus
+.
+#hurricanemaria #mayaguez #puertoricoselevanta #destructi... | ✅ True: flood | 🔍 Predicted: damaged_infrastructure
+📄 Text: RELENTLESS 🔥#ShanxiStrength #shanxi #chinabasketball #ad #teamhou... | ✅ True: non_damage | 🔍 Predicted: non_damage
+📄 Text: #sandydamage in Fed Hill... | ✅ True: damaged_infrastructure | 🔍 Predicted: damaged_infrastructure
+📄 Text: Syrian kids are hungry .......if they find a loaf of bread they are lucky....shame on this world and humanity to watch silently (without acting and stoping the Syrian regime from these atrocities) Syr... | ✅ True: human_damage | 🔍 Predicted: human_damage
+📄 Text: #fire #collapse #buildingcollapse #houston #montrose #smoke #wdallas #apartmentfire #htx #scary... | ✅ True: fires | 🔍 Predicted: fires
+📄 Text: Extreme case of mold growth #moldgrowth #airquality #realestate #luxuryhomes #stachybotrys #southflorida #hurricaneirma #moldinspection #moldremoval #moldremediation  #waterdamage #greenhealth #airqua... | ✅ True: damaged_nature | 🔍 Predicted: damaged_infrastructure

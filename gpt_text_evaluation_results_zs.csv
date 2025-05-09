@@ -1,0 +1,53 @@
+Text Path,True Label,Predicted Label,Snippet
+./split_dataset/test/flood/texts/floodwater_2017-09-01_13-38-30.txt,flood,flood,"The Unprecedented Flooding in Houston - Flooding from Harvey has paralyzed the country\'s fourth biggest city, forcing thousands to flee as rivers rise to levels not seen in centuries.
+
+http://www.sli"
+./split_dataset/test/flood/texts/disasters_2017-11-10_14-00-42.txt,flood,flood,"Flash flood in White Beach, Puerto Galera
+
+#disasters #nature #flood #flooding #rainseason #salome #tropicalstorm #mindoro #philipines #exploreph #ladyrider #streetview #jcfromholland #jcinthephilippi"
+./split_dataset/test/flood/texts/floodwater_2017-08-22_09-02-32.txt,flood,flood,#flood #flood2017 #bangladesh #environment #climate #change #global #warming #most #threatened #vulnerable #country #disaster #floodwater #southasia #india #nepal #reportage #connect4climate #everyday
+./split_dataset/test/flood/texts/accrafloods_2017-10-06_13-52-47.txt,flood,flood,"Scenes from the floods at Kotobaabi down, Alajo area. Where are you and what is the flood situation over there?
+#Accrafloods
+#TV3GH"
+./split_dataset/test/flood/texts/disasters_2017-10-13_21-07-14.txt,flood,flood,Hoy es el día internacional para la Reducción de los Desastres🌪🌊Los últimos estudios pronostican un aumento continuo de las personas dejadas sin hogar entre los habitantes de los países más propensos 
+./split_dataset/test/non_damage/texts/ad_2017-11-25_01-55-47.txt,non_damage,non_damage,"#Repost @elkawhalan (@get_repost)
+・・・
+We've just had a quick warmup before our lesson and quickly catching some vitamin D and a water break before #ANZTennisHotShots begins. 
+This week the two have le"
+./split_dataset/test/non_damage/texts/ad_2017-11-25_04-10-47.txt,non_damage,non_damage,"@freedomofspeechnyc ""Martin #Tee"" available at www.freedomofspeechnyc.com #freedomofspeechnyc #martinlawrence #tshirt #martinpayne #tommyford #riptommy #sheneneh #hustleman #martymar #teammartymar #ca"
+./split_dataset/test/non_damage/texts/food_2017-11-23_23-10-49.txt,non_damage,non_damage,I would like to wish all my family and friends a Happy Thanksgiving!!! From my family to yours 🙏🏼💋🦃🍁🎄❄️🍁🍷#happythanksgiving #joy #holiday #happiness #turkey #igers #photography #nycprime_ladies #nycex
+./split_dataset/test/non_damage/texts/ad_2017-11-25_03-53-38.txt,non_damage,non_damage,#jasonsalaisfilms #jasonsalais #life #principle #soul #spirit #artist #love #truth #jasonsalaisphotography #jasonsalaisads #ad #adman #mind #usa
+./split_dataset/test/non_damage/texts/ad_2017-11-25_07-05-56.txt,non_damage,non_damage,"Mona is so great 💗💗 Do you like Mona ?? 🌈🌈🎉🎉 ............
+#likeforfollow #follow4like #fun #eliminationgame #prettylittleliars #pretty #little #liars #ezra #mona #alisondilaurentis #ariamontgomery #ad"
+./split_dataset/test/damaged_infrastructure/texts/wreckedcar_2016-12-11_09-22-42.txt,damaged_infrastructure,non_damage,homeboy was probably texting. 😒 effing #Priusdrivers #mercedesbenz #wrecked #wreckedcar #socaldriving #stayalert #calilife
+./split_dataset/test/damaged_infrastructure/texts/wreckedcar_2016-11-18_13-41-09.txt,damaged_infrastructure,damaged_infrastructure,"Really like shooting with my phone, it's relaxing! #beckenham #photography #iphone7 #wreckedcar #wreck #smashedcar #car"
+./split_dataset/test/damaged_infrastructure/texts/hurricanesandy_2017-10-28_20-26-48.txt,damaged_infrastructure,non_damage,Five years have passed since Hurricane Sandy hit NYC. The Rockaways back in 2012. © Michael Hicks #hurricanesandy #mhicksphoto #climatechange #climatepolicy #nyc
+./split_dataset/test/damaged_infrastructure/texts/sandydamage_2012-10-31_20-21-02.txt,damaged_infrastructure,damaged_infrastructure,Well that's not good #limpcrane #sandydamage
+./split_dataset/test/damaged_infrastructure/texts/wreckedcar_2017-05-30_04-07-42.txt,damaged_infrastructure,damaged_infrastructure,💔😔 I'm still bitter about the old lady who pulled out in front of me but I'm glad that we are all alive. My car is another story. I'm really bummed about it but I already have plans to get a cool new 
+./split_dataset/test/human_damage/texts/victimsofwar_2016-12-01_20-20-54.txt,human_damage,human_damage,Tune in to @newshour tonight to see two young American volunteers risking their lives to save others on the front line in the battle against ISIS in Mosul. Theirs is a remarkable story. #ISIS #Iraq #M
+./split_dataset/test/human_damage/texts/yemencrisis_2017-07-31_06-24-52.txt,human_damage,human_damage,@Regrann from @hanifah_andini -  Saudi War Crimes - #StopArmingSaudi #StopIgnoringYemen #YemenWar #YemenCrisis #YemenChildren #HandsOffYemen #stravation #Famine #Cholera #AlSaud #KingDomeOfTerror #mus
+./split_dataset/test/human_damage/texts/yemencrisis_2015-04-23_19-29-19.txt,human_damage,human_damage,"1080 dead ,4352 injured from 19 March to April 2015.health facility -based reported figures.#yemencrisis"
+./split_dataset/test/human_damage/texts/yemencrisis_2017-07-05_00-20-20.txt,human_damage,human_damage,"Cholera Death Toll 1,560 And 253,000 Suspected Cholera Cases.
+More Then Two Million Children Under The Age Of Five Suffer From Malnutrition.#yemen #childrenofyemen #forgottenchildrenofyemen #yemenforg"
+./split_dataset/test/human_damage/texts/isiscrimes_2014-06-09_09-35-06.txt,human_damage,human_damage,"#isiscrimes 
+Isis dogs crucified a men accused of working for ""the regime"", others said it was for being a ex-revolution member !
+#syria #syrian #sham #shaam #freedom #freesyria #revolution #syrianrev"
+./split_dataset/test/fires/texts/buildingfire_2017-04-04_07-11-29.txt,fires,fires,Commercial fire in #southla as seen from the vicinity of Vernon and Avalon #41standcompton #abc7eyewitness #ktla #nbcla #cbsla #fox11 #fire #buildingfire #commercialfire
+./split_dataset/test/fires/texts/terrorattack_2017-10-15_14-22-42.txt,fires,human_damage,"Mogadishu Truck Bombing: The death toll for the truck bombing in Mogadishu has raised to 85, police expect the death toll to rise, witnesses also say that the Safari Hotel collapsed after the bombing,"
+./split_dataset/test/fires/texts/yemencrisis_2017-11-05_15-03-15.txt,fires,non_damage,يا جبل ما يهزك ريح لو يقصفو ما يقصفو رؤوسنا با السماء عاليه و كرامتنا محفوظة يكفي لنا فخر صمودنا كل هذي السنين ضد كل هذي الدول و فوق هذا الحقنا بجيوشهم الألف الخسائر 😉 و صدرنا جنودهم داخل صناديق لتونه
+./split_dataset/test/fires/texts/forrestfire_2016-06-14_23-32-52.txt,fires,fires,Inbland blir löprundan i skogen mer spännande än andra. Fick en ofrivillig paus i väntan på räddningstjänsten. #forrestfire #running #nikerunning #trailrunning #traillöpning #skogsbrand
+./split_dataset/test/fires/texts/disaster_2017-10-30_16-42-18.txt,fires,fires,"@Regranned from @ardiyantokoto97 -  Turut berduka cita atas musibah kebakaran pasar ateh bukit tinggi sumatra barat. Semoga allah memberikan kekuatan, ketabahan, dan harapan buat para pedagang 😢
+.
+.
+L"
+./split_dataset/test/damaged_nature/texts/landslide_2017-10-29_02-59-40.txt,damaged_nature,damaged_infrastructure,"No roots
+This concrete house was stripped off its foundations by the strong water current of a nearby waterfall during hurricane Maria. This family lost absolutely everything in the house.
+Utuado, Pue"
+./split_dataset/test/damaged_nature/texts/windstorm_2017-11-14_01-27-07.txt,damaged_nature,non_damage,"Storm rollin’ in this morning.
+#lightvsdark #seattleweather #windstorm"
+./split_dataset/test/damaged_nature/texts/treesfalling_2014-02-05_14-50-39.txt,damaged_nature,damaged_nature,#treesfalling around my house all over from a #icestorm #winterstorm
+./split_dataset/test/damaged_nature/texts/naturaldisaster_2017-10-22_20-19-43.txt,damaged_nature,damaged_nature,"Last nights storm brought down one of our trees. We are still surprised it didn't hit the house but so thankful that God was watching out for us ⛈🌫
+.
+.
+#Texas #Tx #TexasWeather #Weather #SevereWeather"
+./split_dataset/test/damaged_nature/texts/naturaldisaster_2017-10-15_16-18-58.txt,damaged_nature,damaged_nature,Sierra Leone's terrible mudslide..Seeing the devastation up close and personal makes the whole situation even more real..the shocking views of complete destruction for miles and miles is unbelievable!
